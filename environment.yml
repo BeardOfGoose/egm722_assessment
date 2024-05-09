@@ -6,7 +6,4 @@ dependencies:
   - python=3.10
   - geopandas
   - cartopy
-  - notebook
-  - rasterio
-  - pyepsg
   - folium
